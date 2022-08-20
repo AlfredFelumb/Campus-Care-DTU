@@ -58,7 +58,7 @@ Once you have taken a picture of something you want to share, you are asked to d
 With this option, the app tracks your positioning for the duration of your “walk”, until you close the app again or submit your walk. With this option you can still take pictures along the way, but you can use it if you want to put special emphasis on a route you normally take - or even one you want to avoid!
 
 <p align="center">
-  <img src="images/Go for a Walk 1.jpg" width="150"> <img src="images/Go for a Walk2.jpg" width="150"> 
+  <img src="images/Go for a Walk 1.jpg" width="150"> <img src="images/Go for a Walk 2.jpg" width="150"> 
 </p>
 
 ## Start a Reaction Round
