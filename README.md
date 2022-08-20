@@ -28,7 +28,7 @@ Once you are part of the Campus Life Perspectives Group, you should see the Phot
 The following Photo Tasks are intended to provide a thematic for the pictures you take using the app:
 
 ### Social Life
-With this task, we want you to take pictures of the places around Lyngby Campus you go to be social, connect or just hang out. This could be your favorite friday bar, cafe, or just a place you like to hang out when the weather is nice.
+With this task, we want you to take pictures of the places around Lyngby Campus you go to be social, connect or just hang out. This could be your favorite Friday bar, cafe, or just a place you like to hang out when the weather is nice.
 
 ### Study Life
 With this task, we want you to take pictures of the places you go around campus to study. This could simply be your favorite lecture hall, the place you go to do group work, or somewhere you like to sit when reading or doing project work.
@@ -58,7 +58,7 @@ Once you have taken a picture of something you want to share, you are asked to d
 With this option, the app tracks your positioning for the duration of your “walk”, until you close the app again or submit your walk. With this option you can still take pictures along the way, but you can use it if you want to put special emphasis on a route you normally take - or even one you want to avoid!
 
 <p align="center">
-  <img src="images/Go for a Walk UB Test 1.png" width="150"> <img src="images/Go for a Walk UB Test 2.png" width="150"> 
+  <img src="images/Go for a Walk 1.jpg" width="150"> <img src="images/Go for a Walk2.jpg" width="150"> 
 </p>
 
 ## Start a Reaction Round
