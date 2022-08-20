@@ -51,7 +51,7 @@ When you open one of the Photo Tasks, you have the three following options
 Once you have taken a picture of something you want to share, you are asked to do two things: Rate the picture in terms of your sentiment to the place (“Is this for me?”), and assign tags to the picture, according to what made you take it. If you don’t find a tag on the list that fits your picture, feel free to add your own, using the “other” button.
 
 <p align="center">
-  <img src="images/Take a Picture UB Test 1.png" width="150"> <img src="images/Take a Picture Tags.jpg" width="150"> 
+  <img src="images/Take a Picture 1.jpg" width="150"> <img src="images/Take a Picture Tags.jpg" width="150"> 
 </p>
 
 ## Go for a walk
