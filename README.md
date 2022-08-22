@@ -18,7 +18,7 @@ Once you have downloaded the app, create a new user using your DTU email. This i
 
 Once you have signed in to the app, you should be added to the *Campus Life Perspectives* Group soon. As adding new users is a manual process on our side, we will strive to add new users each day at 2PM. If you have any problems signing up or if you haven’t been added to the group yet, feel free to write us at <alfredlf@ikl.aau.dk>
 
-# What do I do in the App?
+# How does it work?
 Once you are part of the Campus Life Perspectives Group, you should see the Photo Tasks you have been given: 
 
 <p align="center">  
